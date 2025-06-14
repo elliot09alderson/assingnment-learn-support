@@ -1,0 +1,87 @@
+
+[
+  {
+    "id": "1",
+    "name": "Dr. Sarah Mitchell",
+    "specialization": "Dyslexia Support",
+    "location": "Dubai Marina",
+    "rating": 4.8,
+    "shortDescription": "Specialized dyslexia therapist with 10+ years experience helping children overcome reading challenges.",
+    "longDescription": "Dr. Sarah Mitchell is a certified dyslexia specialist with over a decade of experience working with children aged 6-16. She uses evidence-based interventions including Orton-Gillingham methodology and structured literacy approaches. Sarah has helped over 300 children develop reading confidence and academic success. She holds certifications from the International Dyslexia Association and regularly conducts workshops for parents and educators.",
+    "contactEmail": "sarah.mitchell@learningsupport.ae",
+    "phoneNumber": "+971-50-123-4567",
+    "image": "/placeholder.svg"
+  },
+  {
+    "id": "2",
+    "name": "Ahmed Al-Rashid",
+    "specialization": "ADHD Coaching",
+    "location": "Business Bay",
+    "rating": 4.9,
+    "shortDescription": "ADHD coach specializing in executive function skills and behavioral strategies for children and teens.",
+    "longDescription": "Ahmed Al-Rashid is a certified ADHD coach with extensive training in executive function coaching and behavioral interventions. He works with children, teens, and their families to develop practical strategies for managing ADHD symptoms. Ahmed's approach combines cognitive-behavioral techniques with mindfulness practices and organizational skills training. He has helped hundreds of families create supportive home and school environments that allow children with ADHD to thrive.",
+    "contactEmail": "ahmed.alrashid@mindfulcoaching.ae",
+    "phoneNumber": "+971-50-234-5678",
+    "image": "/placeholder.svg"
+  },
+  {
+    "id": "3",
+    "name": "Lisa Chen",
+    "specialization": "Autism Spectrum Support",
+    "location": "Jumeirah",
+    "rating": 4.7,
+    "shortDescription": "Board-certified behavior analyst specializing in autism spectrum disorders and social skills development.",
+    "longDescription": "Lisa Chen is a Board Certified Behavior Analyst (BCBA) with specialized training in autism spectrum disorders. She provides comprehensive assessment and intervention services, focusing on communication, social skills, and adaptive behavior development. Lisa uses Applied Behavior Analysis (ABA) principles combined with naturalistic teaching methods to help children reach their full potential. She works closely with families and schools to ensure consistent support across all environments.",
+    "contactEmail": "lisa.chen@spectrumcare.ae",
+    "phoneNumber": "+971-50-345-6789",
+    "image": "/placeholder.svg"
+  },
+  {
+    "id": "4",
+    "name": "Dr. Michael Thompson",
+    "specialization": "Learning Disabilities",
+    "location": "JLT",
+    "rating": 4.6,
+    "shortDescription": "Educational psychologist specializing in comprehensive learning disability assessments and interventions.",
+    "longDescription": "Dr. Michael Thompson is a licensed educational psychologist with expertise in learning disabilities assessment and intervention. He conducts comprehensive psychoeducational evaluations to identify specific learning challenges and develops individualized education plans. Dr. Thompson specializes in dyscalculia, dysgraphia, and processing disorders. He works collaboratively with schools, parents, and other professionals to ensure children receive appropriate accommodations and support services.",
+    "contactEmail": "michael.thompson@edpsych.ae",
+    "phoneNumber": "+971-50-456-7890",
+    "image": "/placeholder.svg"
+  },
+  {
+    "id": "5",
+    "name": "Fatima Al-Zahra",
+    "specialization": "Speech Therapy",
+    "location": "Al Barsha",
+    "rating": 4.8,
+    "shortDescription": "Certified speech-language pathologist helping children with communication disorders and language delays.",
+    "longDescription": "Fatima Al-Zahra is a certified speech-language pathologist with extensive experience treating children with various communication disorders. She specializes in articulation disorders, language delays, stuttering, and social communication challenges. Fatima uses evidence-based therapy techniques and incorporates play-based interventions to make therapy engaging and effective. She is fluent in Arabic and English, allowing her to provide culturally sensitive services to diverse families in the UAE.",
+    "contactEmail": "fatima.alzahra@speechcare.ae",
+    "phoneNumber": "+971-50-567-8901",
+    "image": "/placeholder.svg"
+  },
+  {
+    "id": "6",
+    "name": "Dr. James Wilson",
+    "specialization": "Occupational Therapy",
+    "location": "Mirdif",
+    "rating": 4.5,
+    "shortDescription": "Pediatric occupational therapist focusing on sensory processing and fine motor skills development.",
+    "longDescription": "Dr. James Wilson is a pediatric occupational therapist specializing in sensory processing disorders, fine motor skills development, and visual-motor integration. He helps children develop the skills needed for academic success and daily living activities. Dr. Wilson uses sensory integration therapy, handwriting programs, and adaptive techniques to support children with various learning challenges. He provides comprehensive assessments and works closely with schools to implement classroom accommodations.",
+    "contactEmail": "james.wilson@ottherapy.ae",
+    "phoneNumber": "+971-50-678-9012",
+    "image": "/placeholder.svg"
+  },
+  {
+    "id": "7",
+    "name": "Aisha Patel",
+    "specialization": "Math Learning Support",
+    "location": "Sharjah",
+    "rating": 4.7,
+    "shortDescription": "Mathematics specialist helping children overcome dyscalculia and math anxiety through innovative teaching methods.",
+    "longDescription": "Aisha Patel is a certified mathematics learning specialist with expertise in dyscalculia and math anxiety interventions. She uses multisensory teaching approaches and technology-assisted learning to help children develop number sense and mathematical reasoning skills. Aisha creates individualized programs that address specific math learning challenges while building confidence and reducing anxiety. She regularly collaborates with schools to implement effective math support strategies in classroom settings.",
+    "contactEmail": "aisha.patel@mathsupport.ae",
+    "phoneNumber": "+971-50-789-0123",
+    "image": "/placeholder.svg"
+  }
+]
